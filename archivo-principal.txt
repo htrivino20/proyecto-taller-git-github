@@ -7,3 +7,5 @@ NioT es el mejor club de la espol
 Diciembre es el mejor mes del año
 
 Este mensaje es de la rama principal
+
+Git es una herramienta poderosa para el control de versiones
