@@ -1,11 +1,11 @@
 Hola mi nombre es Héctor Triviño
 
-Soy estudiante de Mecatrónica
+Soy estudiante de Mecanica
 
-NioT es el mejor club de la espol
+NioT es el mejor club de la ciudad
 
-Diciembre es el mejor mes del año
+Febrero es el mejor mes del año
 
-Este mensaje es de la rama principal
+Este mensaje es de la rama master
 
 Git es una herramienta poderosa para el control de versiones
