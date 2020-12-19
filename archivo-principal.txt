@@ -1,10 +1,10 @@
 Hola mi nombre es Héctor Triviño
 
-Soy estudiante de Mecatrónica
+Soy estudiante de Telemática
 
-NioT es el mejor club de la espol
+NioT es el mejor club del mundo
 
-Diciembre es el mejor mes del año
+Enero es el mejor mes del año
 
 Este mensaje es de la rama principal
 
